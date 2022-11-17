@@ -1,4 +1,4 @@
-# Jakub-s-3D-Printer-Mods
+# Jakub's 3D Printer Mods
 
 A place for my 3P printer mods.
 
