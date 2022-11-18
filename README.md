@@ -7,7 +7,7 @@ A place for my 3D printer mods.
 - [Printer Tophat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
 - Nevemore Ceiling Mount
 
-## The mods I use on my printer
+## Mods I use on my printer
 - [Nevermore](https://github.com/nevermore3d/Nevermore_Micro) V5 Duo
 - [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
 - [Sexbolt Z-Endstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)
