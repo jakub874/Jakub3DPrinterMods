@@ -18,3 +18,14 @@ M3x30 SHCS | 8
 
 *for smaller printers marked with "reduced BOM".<br>
 **enough to do a loop around the top of the frame of the printer.
+
+## ASSEMBLY
+1. Remove your top panel, keep the foam strip in the stock position
+2. Remove the support strip from the "base" parts
+3. Attach the base pieces to the printer
+4. Lay foam tape along the step in the base parts
+5. Press the magnets into all parts, be mindeful of polarity, I suggest keeping it all in the same direction.
+6. Drive the m3x30 screws into each dowel pin
+7. Assemble the "picture frame" using the dowel pins and super glue, hot glue is doable but very difficult
+8. Place the "picture frame" on the printer and lay the vhb tape on the lower step
+9. Place top panel onto the frame and press it around the perimiter into the VHB tape
