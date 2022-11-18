@@ -1,1 +1,1 @@
-Tophats for Voron V1 or V2 printers with a 250 bed size
+Tophats for Voron V1 and V2 printers with a 250mm bed size
