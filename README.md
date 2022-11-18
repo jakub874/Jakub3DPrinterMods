@@ -4,7 +4,7 @@ A place for my 3P printer mods.
 
 ## Mods I've made
 
-- Voron Tophat
+- [Voron Tophat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
 - Nevemore Ceiling Mount
 
 ## The mods I use on my printer
