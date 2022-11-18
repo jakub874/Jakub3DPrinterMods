@@ -4,6 +4,8 @@ A tophat inspired by the Annex k3 Summit enclosure. Currently support VORON V1, 
 
 If you want a version for a currently unsupported printer or just want a specific size PM me on Discord.
 
+Also requires 8x of the dowel pin from the [Annex K3 Tophat Structure](https://github.com/Annex-Engineering/Gasherbrum-K3/blob/main/Release_1_1/STLs/Summit_Enclosure/Tophat/tophat_lid_structure_c_x8_rev3.STL)
+
 ## BOM
 **Part** | **Count** | **Reduced***
 --- | --- | ---
