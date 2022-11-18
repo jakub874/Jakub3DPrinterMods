@@ -10,6 +10,7 @@ If you want a version for a currently unsupported printer or just want a specifi
 6x3 Magnet | 56 | 40
 M3x8 SHCS | 24 | 16
 M3 Roll-in Nut | 24 | 16
+M3x30 SHCS | 8
 1x5mm Foam Tape<br>*(voron standard)* | 1-2m**
 1x5mm VHB Tape<br>*(6mm/.25in should work too)* | 1-2m**
 
