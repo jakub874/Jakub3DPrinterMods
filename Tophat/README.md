@@ -14,7 +14,7 @@ M3x8 SHCS | 24 | 16
 M3 Roll-in Nut | 24 | 16
 M3x30 SHCS | 8
 1x5mm Foam Tape<br>*(voron standard)* | 1-2m**
-1x5mm VHB Tape<br>*(6mm/.25in should work too)* | 1-2m**
+1x5mm VHB Tape<br>*(6mm/.25in works as well) | 1-2m**
 
 *for smaller printers marked with "reduced BOM".<br>
 **enough to do a loop around the top of the frame of the printer.
