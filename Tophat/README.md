@@ -22,7 +22,7 @@ Glue<br>*(super glue recommended)*<br>*(hot glue not recommended)*
 ***enough to do a loop around the top of the frame of the printer.
 
 ## ASSEMBLY
-moved to [ASSEMBLY.md](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/ASSEMBLY.md)
+moved to [ASSEMBLY.md](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/ASSEMBLY.md)\
 ~~1. Remove your top panel, keep the foam strip in the stock position\
 2. Remove the support strip from the "base" parts\
 3. Attach the base pieces to the printer using the roll-in nutes and m3x8 screws\
