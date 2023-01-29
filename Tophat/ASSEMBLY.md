@@ -10,4 +10,5 @@ Instruction | Image
 |8. Assemble the "picture frame" using the dowel pins and super glue, hot glue is doable but very difficult | ![alt text](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/img/Screenshot%202023-01-29%20000215.png?raw=true)
 |9. Place the "picture frame" on the printer and lay the vhb tape on the lower step in the "corner" and "edge" pieces. The foam strip already attached to the panel will rest on the small upper step. | ![alt text](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/img/Screenshot%202023-01-28%20234456.png?raw=true)
 |10. PLace the tophat frame on the printer frame, onto the tophat base pieces, the magnets should attract. Place top panel onto the tophat frame and press it into the VHB tape. | ![alt text](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/img/Screenshot%202023-01-29%20002005.png?raw=true)
+
 You're done!
