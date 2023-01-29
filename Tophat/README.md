@@ -22,13 +22,14 @@ Glue<br>*(super glue recommended)*<br>*(hot glue not recommended)*
 ***enough to do a loop around the top of the frame of the printer.
 
 ## ASSEMBLY
-1. Remove your top panel, keep the foam strip in the stock position
-2. Remove the support strip from the "base" parts
-3. Attach the base pieces to the printer using the roll-in nutes and m3x8 screws
-4. Lay foam tape along the step in the base parts
-5. Press the 6x3mm magnets into all parts, be mindful of polarity, I suggest keeping it all in the same direction.
-6. Drive the m3x30 screws into each dowel pin
-7. Assemble the "picture frame" using the dowel pins and super glue, hot glue is doable but very difficult
-8. Place the "picture frame" on the printer and lay the vhb tape on the lower step in the "corner" and "edge" pieces 
-    - (out of the way of the foam strip of the top panel)
-9. Place top panel onto the frame and press it into the VHB tape
+moved to [ASSEMBLY.md](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/ASSEMBLY.md)
+~~1. Remove your top panel, keep the foam strip in the stock position\
+2. Remove the support strip from the "base" parts\
+3. Attach the base pieces to the printer using the roll-in nutes and m3x8 screws\
+4. Lay foam tape along the step in the base parts\
+5. Press the 6x3mm magnets into all parts, be mindful of polarity, I suggest keeping it all in the same direction.\
+6. Drive the m3x30 screws into each dowel pin\
+7. Assemble the "picture frame" using the dowel pins and super glue, hot glue is doable but very difficult\
+8. Place the "picture frame" on the printer and lay the vhb tape on the lower step in the "corner" and "edge" pieces \
+    - (out of the way of the foam strip of the top panel)\
+9. Place top panel onto the frame and press it into the VHB tape~~
