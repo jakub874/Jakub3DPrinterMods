@@ -5,13 +5,16 @@ A place for my 3D printer mods.
 ## Mods I've made
 
 - [Printer Tophat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
-- Nevemore Ceiling Mount
+- [Nevemore Ceiling Mount](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Nevermore%20Ceiling%20Mount)
 
-## Mods I use on my printer
+## Mods and components I use on my printer
 - [Nevermore](https://github.com/nevermore3d/Nevermore_Micro) V5 Duo
 - [Bed Fans](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans)
-- [Sexbolt Z-Endstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)
+- [Printer Tophat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
+- [Nevermore Ceiling Mount](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Nevermore%20Ceiling%20Mount)
+- [Annex K3](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/main) style door [adapted by gdsolar](https://github.com/gdsolar/Printer-Mods/tree/main/Voron/K3_Style_Door) for VORON printers
+- [Beacon](https://beacon3d.com/) surface scanner and contact probe [(github)](https://github.com/beacon3d)
+
+## Mods I no longer use
 - [BFP Unklicky](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG/STL)
 - [Smol Mantis Toolhead](https://github.com/sporkus/smol_mantis)
-- [Printer Tophat](https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat)
-- Nevermore Ceiling Mount
