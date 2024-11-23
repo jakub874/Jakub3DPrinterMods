@@ -4,7 +4,10 @@
 
 A tophat inspired by the [Annex K3](https://github.com/Annex-Engineering/Gasherbrum-K3) Summit enclosure. Currently support VORON V1/VT, V2, and Tiny-t 150.
 
-Requires 8x of the dowel pin from the [Annex K3 Tophat Structure](https://github.com/Annex-Engineering/Gasherbrum-K3/blob/main/Release_1_1/STLs/Summit_Enclosure/Tophat/tophat_lid_structure_c_x8_rev3.STL), or double that to 16x for taller tophats marked {dowel}.
+![alt text](https://github.com/jakub874/Jakub3DPrinterMods/blob/main/Tophat/img/jrubiks1209_tophat.png)\
+*Image courtesy of @jrubiks1209 on discord*
+
+**NOTE:** Requires 8x of the dowel pin from the [Annex K3 Tophat Structure](https://github.com/Annex-Engineering/Gasherbrum-K3/blob/main/Release_1_1/STLs/Summit_Enclosure/Tophat/tophat_lid_structure_c_x8_rev3.STL).
 
 ## BOM
 **Part** | **Count** | **Reduced*** 
