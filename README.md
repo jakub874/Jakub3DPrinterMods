@@ -17,6 +17,6 @@ A place for my 3D printer mods.
 - [Annex K3](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/main) style door [adapted by gdsolar](https://github.com/gdsolar/Printer-Mods/tree/main/Voron/K3_Style_Door) for VORON printers
 - [Beacon](https://beacon3d.com/) surface scanner and contact probe [(github)](https://github.com/beacon3d)
 
-## Mods I no longer use
+## Mods I used at one point
 - [BFP Unklicky](https://github.com/jlas1/Klicky-Probe/tree/main/Probes/UnklickyNG/STL)
 - [Smol Mantis Toolhead](https://github.com/sporkus/smol_mantis)
