@@ -1,5 +1,3 @@
-#### TODO: replace folder mess with a parametric fusion file
-
 # Printer Tophat
 
 A tophat inspired by the [Annex K3](https://github.com/Annex-Engineering/Gasherbrum-K3) Summit enclosure. Currently support VORON V1/VT, V2, and Tiny-t 150.
