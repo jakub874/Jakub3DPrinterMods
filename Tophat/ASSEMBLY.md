@@ -1,3 +1,5 @@
+### Step 2 now only applies to legacy files
+
 Instruction | Image
 | --- | ---
 |1. Remove your top panel from your printer, keep the stock foam strip as is, DO NOT remove it. Set the panel to the side. | <br /> *[intentionally left blank]* <br /> <br />
